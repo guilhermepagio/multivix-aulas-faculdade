@@ -37,7 +37,7 @@ O repositório é organizado de forma a facilitar a navegação e a descoberta d
 
 ## 📫 Como me encontrar
 
-- Site pessoal: [https://github.com/gPagio]
+- Site pessoal: [https://github.com/guilhermepagio]
 - LinkedIn: [linkedin.com/in/guilhermepagio]
 - Instagram: [@guilhermepagio]
 - Email: [guilhermepagio.contato@gmail.com]
